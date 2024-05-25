@@ -1,1 +1,2 @@
-Here is a clone for a travel website I am creating
+Crafting creativity around travel locations along the coast
+
